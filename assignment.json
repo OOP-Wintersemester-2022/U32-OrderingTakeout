@@ -1,0 +1,12 @@
+{
+  "title": "U32 | OrderingTakeout",
+  "abstract": "In dieser Aufgabe implementieren Sie eine Klasse, die das Observer-Pattern anwenden soll. Dabei üben sie das Client-Implementer Konzept.",
+  "hasStarterCode": true,
+  "hasSolutionCode": true,
+  "solutionComment": "Lösungsvorschlag zur Aufgabenstellung",
+  "simpleSolutionComment": "",
+  "advancedSolutionComment": "",
+  "hasSimpleSolutionCode": false,
+  "hasAdvancedSolutionCode": false,
+  "solutionAvailableOn": "2022-02-07"
+}
